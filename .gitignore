@@ -1,0 +1,19 @@
+# 系統檔案
+.DS_Store
+Thumbs.db
+
+# VS Code 設定
+.vscode/
+
+# 依賴
+node_modules/
+
+# 打包結果
+dist/
+build/
+
+# 日誌
+*.log
+
+# 環境變數
+.env
